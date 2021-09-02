@@ -1,4 +1,28 @@
-### Hi there 👋
+## graduated in 2021.2
+
+
+
+## Interested In 
+
+- WEB
+- APP
+- Computer Vision
+- Autonomous Driving
+- Robotics
+
+
+
+## Studying 
+
+- C/C++
+- python
+- ROS
+- Java
+- git
+
+
+
+
 
 <!--
 **liquidflame20/liquidflame20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
